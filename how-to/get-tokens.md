@@ -1,20 +1,20 @@
 ---
 description: >-
-  $GCURES Founder's Tokens are awarded for completing quests and contributing to
+  GCURES Founder's Tokens are awarded for completing quests and contributing to
   experiments.
 ---
 
 # 🪙 Quests and Tokens
 
-CureDAO is built on the [Aragon](https://client.aragon.org/#/curedao1) DAO platform. The unit of democratic power in CureDAO is the $GCURES tokens on the Harmony blockchain.
+CureDAO is built on the [Aragon](https://client.aragon.org/#/curedao1) DAO platform. The unit of democratic power in CureDAO is the GCURES tokens on the Harmony blockchain.
 
-$GCURES tokens give you control over CureDAO and how it allocates its resources.
+GCURES tokens give you control over CureDAO and how it allocates its resources.
 
-$GCURES tokens are awarded for the completion of quests and experiments that advance the CureDAO mission. Quests and Experiments are outlined in Clickup Tasks.
+GCURES tokens are awarded for the completion of quests and experiments that advance the CureDAO mission. Quests and Experiments are outlined in Clickup Tasks.
 
 ## Your First Quest
 
-Reward: 10 $GCURES tokens
+Reward: 10 GCURES tokens
 
 ### Step 1: Install Metamask with Harmony Chain
 
@@ -24,7 +24,7 @@ Receive tokens by adding the Harmony (ONE) chain to your Metamask wallet like so
 How to Receive Tokens
 {% endembed %}
 
-### Add the $GCURES token to Metamask&#x20;
+### Add the GCURES token to Metamask&#x20;
 
 Click "Import tokens" and add `0xb8b6e51f022b6a98ac311820a908d1a37717d8c4`
 
@@ -36,7 +36,7 @@ Click "Import tokens" and add `0xb8b6e51f022b6a98ac311820a908d1a37717d8c4`
 Link to signup form
 {% endembed %}
 
-If you completed this quest successfully, you should see 10 $GCURES tokens in your wallet in a few days.
+If you completed this quest successfully, you should see 10 GCURES tokens in your wallet in a few days.
 
 ### Community-Generated Contributions
 
